@@ -1,11 +1,11 @@
 +++
 title = "Vibe coding small project to learn! (beginner friendly)"
-date = 2025-11-20T15:00:00+01:30
+date = 2025-11-20T16:00:00+01:30
 +++
 
 <center>
     <h2 class="subtitle"><strong>In person at PSI - OVGA-200</strong> <a href="https://maps.app.goo.gl/BE1K59CMA23AsuUP8">(map)</a> </h2> <br>
-    <h2 class="subtitle"><strong>Hybrid online at Jitsi</strong> <a href="https://meet.jit.si/moderated/19880f6da3c5afdda72d24abdc36d927fe9e929040bfc6bd4cc3c7f14806a194">(link)</a> </h2> <br>
+    <h2 class="subtitle"><strong>Hybrid online at Jitsi</strong> <a href="https://meet.jit.si/rust-psi-hack-and-learn">(link)</a> </h2> <br>
     <h4 class="subtitle"><strong>Host: David Perl (@d-perl), Jusong Yu (@unkcpz)</strong></h4> <br/>
     <h2 style="display: inline-block; padding: 0 20px;"><a href="https://bit.ly/rs4rse-slack">Slack Chat</a></h2>
 </center>
