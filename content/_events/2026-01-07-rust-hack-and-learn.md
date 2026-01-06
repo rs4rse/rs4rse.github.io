@@ -1,6 +1,6 @@
 +++
 title = "Vibe coding small project to learn! (beginner friendly)"
-date = 2025-11-27T16:30:00+01:30
+date = 2026-01-07T16:30:00+01:30
 +++
 
 <center>
